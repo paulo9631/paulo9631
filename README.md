@@ -26,23 +26,23 @@ Here are the technologies I use to bring ideas to life:
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?paulo9613&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo9631&show_icons=true&theme=radical)
 
 ---
 
 ## 🎨 Fun Touch
 Check out my contribution graph!
 
-![GitHub Contribution Snake](https://github.com/paulo9613/paulo9613/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/paulo9631/paulo9631/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🌎 Connect With Me
 Let's connect and collaborate:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo9631)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pv20.paulo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pv20.paulo@gmail.com)
 
 ---
