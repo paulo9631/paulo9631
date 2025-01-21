@@ -35,6 +35,7 @@ Check out my contribution graph!
 
 ![GitHub Contribution Snake](https://github.com/paulo9631/paulo9631/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 ## 🌎 Connect With Me
