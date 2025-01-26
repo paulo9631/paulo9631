@@ -33,7 +33,7 @@ Here are the technologies I use to bring ideas to life:
 ## 🎨 Fun Touch
 Check out my contribution graph!
 
-![GitHub Contribution Snake](https://github.com/paulo9631/paulo9631/blob/output/github-contribution-grid-snake2.svg)
+![GitHub Contribution Snake](https://github.com/paulo9631/paulo9631/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
