@@ -31,15 +31,6 @@ Here are the technologies I use to bring ideas to life:
 
 ---
 
-
-
-[## 🎨 Fun Touch: Streak Stats]
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=paulo9631&theme=radical&hide_border=true)
-
-
----
-
 ## 🌎 Connect With Me
 Let's connect and collaborate:
 
