@@ -1,4 +1,4 @@
-# 🌟 Welcome to Paulo9631's GitHub! 🌟
+# Welcome to Paulo9631's GitHub!
 
 Hello! I'm Paulo Vitor, a passionate developer who loves to create, learn, and innovate. Explore my repositories and projects to see what I'm working on! 🚀
 
