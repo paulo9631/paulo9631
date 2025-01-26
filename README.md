@@ -27,13 +27,15 @@ Here are the technologies I use to bring ideas to life:
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo9631&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo9631&layout=compact&theme=radical)
 
 ---
 
-## 🎨 Fun Touch
-Check out my contribution graph!
 
-![GitHub Contribution Snake](https://github.com/paulo9631/paulo9631/blob/output/github-contribution-grid-snake.svg)
+
+[## 🎨 Fun Touch: Streak Stats]
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=paulo9631&theme=radical&hide_border=true)
 
 
 ---
