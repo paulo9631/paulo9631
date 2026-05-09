@@ -54,9 +54,24 @@ I enjoy solving real-world problems through clean architecture, performance opti
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo9631\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=paulo9631&show_icons=true&theme=github_dark&cache_seconds=1800" 
+  />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo9631\&layout=compact\&theme=tokyonight)
+<img 
+ height="180em" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo9631&layout=compact&theme=github_dark&cache_seconds=1800" 
+/>
+
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=paulo9631&theme=github-dark&hide_border=false" 
+  />
+</p>
 
 ---
 
