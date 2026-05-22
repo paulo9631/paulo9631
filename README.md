@@ -86,9 +86,9 @@
 ## 🏆 Codewars
 
 <p align="center">
-  <a href="https://www.codewars.com/users/SEU_USUARIO">
+  <a href="https://www.codewars.com/users/paulo9631">
     <img 
-      src="https://www.codewars.com/users/SEU_USUARIO/badges/large"
+      src="https://www.codewars.com/users/paulo9631/badges/large"
     />
   </a>
 </p>
