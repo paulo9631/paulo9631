@@ -1,19 +1,21 @@
-## Hi, I'm Paulo Vitor 👋
+# Hi, I'm Paulo Vitor 👋
 
-Fullstack Developer focused on building scalable web applications, APIs, and digital solutions.
-Currently working with React, Python, PostgreSQL, and modern web technologies, while expanding my skills in C# and .NET ecosystem.
-
-I enjoy solving real-world problems through clean architecture, performance optimization, and user-focused development.
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+%7C+Python+%7C+PostgreSQL;Building+scalable+web+applications;Always+learning+new+technologies"
+  />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Software Engineering student at UFC
-* 💼 Fullstack Developer with experience in production systems
-* 🔧 Experience with frontend, backend, APIs, databases, and technical support
-* 🌱 Currently studying C# and .NET
-* 🌍 Based in Ceará, Brazil
+- 🎓 Software Engineering student at UFC
+- 💼 Fullstack Developer with experience in production systems
+- 🔧 Experience with frontend, backend, APIs, databases, and technical support
+- 🌱 Currently studying C# and .NET ecosystem
+- 🌍 Based in Ceará, Brazil
+- ⚡ Passionate about clean architecture, performance, and scalable solutions
 
 ---
 
@@ -21,34 +23,41 @@ I enjoy solving real-world problems through clean architecture, performance opti
 
 ### Front-end
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ### Back-end
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
-![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
 
 ### Database & Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
 ## 📌 Current Focus
 
-* Fullstack applications with React and .NET
-* REST API development
-* Clean Architecture & SOLID
-* JWT Authentication
-* PostgreSQL
-* Docker & Deploy
+- Fullstack applications with React and .NET
+- REST API development
+- Clean Architecture & SOLID
+- JWT Authentication
+- PostgreSQL optimization
+- Docker & Deploy
 
 ---
 
@@ -60,11 +69,10 @@ I enjoy solving real-world problems through clean architecture, performance opti
     src="https://github-readme-stats.vercel.app/api?username=paulo9631&show_icons=true&theme=github_dark&cache_seconds=1800" 
   />
 
-<img 
- height="180em" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo9631&layout=compact&theme=github_dark&cache_seconds=1800" 
-/>
-
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo9631&layout=compact&theme=github_dark&cache_seconds=1800" 
+  />
 </p>
 
 <p align="center">
@@ -75,10 +83,42 @@ I enjoy solving real-world problems through clean architecture, performance opti
 
 ---
 
+## 🏆 Codewars
+
+<p align="center">
+  <a href="https://www.codewars.com/users/SEU_USUARIO">
+    <img 
+      src="https://www.codewars.com/users/SEU_USUARIO/badges/large"
+    />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+</p>
+
+---
+
 ## 🌎 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/paulo-vitor-pinheiro-da-silva-205b33271)
+<p>
+  <a href="https://linkedin.com/in/paulo-vitor-pinheiro-da-silva-205b33271">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pv20.paulo@gmail.com)
+  <a href="mailto:pv20.paulo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-⭐ Always learning, building, and improving.
+---
+
+<p align="center">
+  ⭐ Always learning, building, and improving.
+</p>
