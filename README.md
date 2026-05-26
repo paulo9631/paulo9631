@@ -24,7 +24,8 @@
 > Software Engineering student at UFC
 > Fullstack developer focused on scalable systems
 > Passionate about backend architecture and APIs
-> Currently diving deep into .NET and C#
+> Mobile development enthusiast
+> Currently diving deep into .NET ecosystem
 > Based in Ceará, Brazil
 ```
 
@@ -38,7 +39,8 @@
 |---|---|
 | Frontend | React, JavaScript, HTML, CSS |
 | Backend | Node.js, Python, C#, .NET |
-| Database | PostgreSQL |
+| Mobile | Kotlin, React Native |
+| Database | PostgreSQL, Firebase, SQLite |
 | DevOps | Docker, GitHub Actions |
 | Studying | Clean Architecture, JWT, Microservices |
 
@@ -46,26 +48,141 @@
 
 ---
 
+# 💼 Professional Experience
+
+## 🚀 Fullstack Developer — IDEEDUTEC
+
+```yaml
+period: "2025 - Present"
+
+stack:
+  - React
+  - JavaScript
+  - HTML5
+  - CSS3
+  - REST APIs
+  - Git/GitHub
+
+responsibilities:
+  - Development and maintenance of production systems
+  - REST API integration
+  - Bug fixing and performance optimization
+  - UI/UX improvements
+  - Agile workflow with Scrum/Kanban
+  - Collaborative development using Gitflow
+  - Corrective and evolutionary maintenance
+```
+
+---
+
 # ⚒️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,cs,dotnet,postgres,docker,git,github,vscode,html,css,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,cs,dotnet,postgres,docker,git,github,vscode,html,css,js,kotlin,firebase,electron,nestjs,sqlite,django&theme=dark"/>
 
 </div>
 
 ---
 
-# 🚀 What I Like Building
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 📚 SYSBM
+
+Desktop library management system.
+
+### ⚙️ Stack
+React • Electron • TypeScript • NestJS • Prisma • SQLite
+
+### ✨ Features
+- Loan control
+- Digital collection management
+- Reports dashboard
+- Reader management
+
+</td>
+
+<td width="50%">
+
+## 📱 QUFC
+
+Academic sharing mobile application.
+
+### ⚙️ Stack
+Kotlin • Firebase • MVVM • React Native
+
+### ✨ Features
+- Real-time chat
+- Authentication system
+- Study groups
+- Media sharing
+- Interactive academic quizzes
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+## ✍️ Verbo Solto
+
+Independent publishing platform for authors.
+
+### ⚙️ Stack
+Django • Django REST • Vue.js • JWT
+
+### ✨ Features
+- JWT authentication
+- REST API development
+- Responsive interfaces
+- Frontend & backend integration
+
+</td>
+
+<td width="50%">
+
+## 🧠 Engineering Focus
+
+- Clean Architecture
+- RESTful APIs
+- MVVM
+- SOLID Principles
+- JWT Authentication
+- Agile Development
+- Gitflow Workflow
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📱 Mobile Development
 
 <div align="center">
 
-🧩 Fullstack Applications  
-⚡ High Performance APIs  
-🔐 Authentication Systems  
-📦 Scalable Backend Architectures  
-🐳 Dockerized Applications  
-🛠 Developer Tools  
+Android Development with Kotlin  
+MVVM Architecture  
+Firebase Ecosystem  
+React Native Studies  
+
+</div>
+
+---
+
+# ☁️ Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </div>
 
@@ -79,7 +196,7 @@
 ⚡ Master .NET ecosystem  
 🧠 Improve software architecture skills  
 🚀 Build scalable real-world systems  
-🐳 Deep dive into DevOps and Docker  
+🐳 Deep dive into DevOps and Cloud  
 
 </div>
 
@@ -135,6 +252,10 @@
 
 <a href="mailto:pv20.paulo@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/paulo9631">
+<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
