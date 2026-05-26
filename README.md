@@ -1,114 +1,158 @@
-# Hi, I'm Paulo Vitor 👋
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+%7C+Python+%7C+PostgreSQL;Building+scalable+web+applications;Always+learning+new+technologies"
-  />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=250&section=header&text=Paulo%20Vitor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20•%20Software%20Engineering%20Student&descAlignY=55"/>
 
----
+</div>
 
-## 🚀 About Me
+<div align="center">
 
-- 🎓 Software Engineering student at UFC
-- 💼 Fullstack Developer with experience in production systems
-- 🔧 Experience with frontend, backend, APIs, databases, and technical support
-- 🌱 Currently studying C# and .NET ecosystem
-- 🌍 Based in Ceará, Brazil
-- ⚡ Passionate about clean architecture, performance, and scalable solutions
+![](https://komarev.com/ghpvc/?username=paulo9631&color=blueviolet&style=for-the-badge)
 
----
+</div>
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Front-end
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+real+world+applications;React+%7C+Node.js+%7C+Python+%7C+.NET;Focused+on+performance+and+clean+architecture;Always+learning+new+technologies)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### Back-end
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
-### Database & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 📌 Current Focus
+# 🧠 About Me
 
-- Fullstack applications with React and .NET
-- REST API development
-- Clean Architecture & SOLID
-- JWT Authentication
-- PostgreSQL optimization
-- Docker & Deploy
+```bash
+> Software Engineering student at UFC
+> Fullstack developer focused on scalable systems
+> Passionate about backend architecture and APIs
+> Currently diving deep into .NET and C#
+> Based in Ceará, Brazil
+```
 
----
+<br>
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=paulo9631&show_icons=true&theme=github_dark&cache_seconds=1800" 
-  />
+## ⚡ Current Focus
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo9631&layout=compact&theme=github_dark&cache_seconds=1800" 
-  />
-</p>
+| Area | Technologies |
+|---|---|
+| Frontend | React, JavaScript, HTML, CSS |
+| Backend | Node.js, Python, C#, .NET |
+| Database | PostgreSQL |
+| DevOps | Docker, GitHub Actions |
+| Studying | Clean Architecture, JWT, Microservices |
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=paulo9631&theme=github-dark&hide_border=false" 
-  />
-</p>
+</div>
 
 ---
 
-## 🏆 Codewars
+# ⚒️ Tech Arsenal
 
-<p align="center">
-  <a href="https://www.codewars.com/users/paulo9631">
-    <img 
-      src="https://www.codewars.com/users/paulo9631/badges/large"
-    />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,cs,dotnet,postgres,docker,git,github,vscode,html,css,js&theme=dark"/>
+
+</div>
 
 ---
 
-## 🌎 Contact
+# 🚀 What I Like Building
 
-<p>
-  <a href="https://linkedin.com/in/paulo-vitor-pinheiro-da-silva-205b33271">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<div align="center">
 
-  <a href="mailto:pv20.paulo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+🧩 Fullstack Applications  
+⚡ High Performance APIs  
+🔐 Authentication Systems  
+📦 Scalable Backend Architectures  
+🐳 Dockerized Applications  
+🛠 Developer Tools  
+
+</div>
 
 ---
 
-<p align="center">
-  ⭐ Always learning, building, and improving.
-</p>
+# 📌 Current Goals
+
+<div align="center">
+
+🔥 Become a high-level backend engineer  
+⚡ Master .NET ecosystem  
+🧠 Improve software architecture skills  
+🚀 Build scalable real-world systems  
+🐳 Deep dive into DevOps and Docker  
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo9631&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo9631&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=paulo9631&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🏆 Codewars
+
+<div align="center">
+
+<a href="https://www.codewars.com/users/paulo9631">
+<img src="https://www.codewars.com/users/paulo9631/badges/large"/>
+</a>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/paulo-vitor-pinheiro-da-silva-205b33271">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pv20.paulo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💭 Philosophy
+
+<div align="center">
+
+> "Great software is built with clean architecture, scalability and obsession over details."
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer"/>
+
+</div>
